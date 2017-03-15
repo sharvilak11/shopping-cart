@@ -4,57 +4,57 @@ mongoose.connect('localhost:27017/shopping');
 
 var products = [
     new Product({
-    imagePath:'http://3.bp.blogspot.com/-HMxziJtnz9c/ULrQVN4Jm5I/AAAAAAAAAsk/fEuJTRsEh2w/s1600/11.jpg',
-    title:'Jordan Carver',
-    description:'abcdfef',
+    imagePath:'http://www.yes2soccer.com/wp-content/uploads/2014/12/519U3MsMPfL.jpg',
+    title:'Nike Mercurial Fade Soccer Ball',
+    description:'The Nike Mercurial Fade Football features high-contrast graphics for easier visual tracking and a machine-stitched casing for superior touch',
         price:15
     }),
     new Product({
-        imagePath:'https://kdmag.files.wordpress.com/2012/12/jordan-carver-knuckle-dragger-magazine-glamour-model-24.jpg',
-        title:'Jordan Carver',
-        description:'efsfsf',
+        imagePath:'http://www.ua.all.biz/img/ua/catalog/2071685.jpeg',
+        title:'Adidas Goalkeeper Gloves Latex',
+        description:'Goalie Gloves for Kids/ Junionrs Soccer Accessories Equipment',
         price:20
     }),
     new Product({
-        imagePath:'http://www3.pictures.zimbio.com/fp/Abigail+Ratchford+Sexy+Photo+Shoot+Memorial+dPAFnufYSNkl.jpg',
-        title:'Abigail Ratchford',
-        description:'sfsgdfgfgsf',
+        imagePath:'https://static.kaymu.pk/p/other-5493-9135401-1-zoom.jpg',
+        title:'Nike CR7 White Blue Futsal Gripper 2',
+        description:'New Ronaldo Futsal shoes ',
         price:12
     }),
     new Product({
-        imagePath:'http://urbasm.org/wp-content/uploads/2015/12/final-marilyn-monroe-1-e1449192424240.jpg',
-        title:'Abigail Ratchford',
-        description:'fsdfsdfsdghg',
+        imagePath:'https://static.kaymu.pk/p/nike-4498-9959201-1-product.jpg',
+        title:'Nike Dunk SB 2012 ',
+        description:'Nike Dunk SB 2012 New High Cut Mens Shoes',
         price:10
     }),
     new Product({
-        imagePath:'http://drunkenstepfather.com/wp-content/uploads/2013/12/Helen_Flanagan_Special_NutsUK_131213_08.jpg',
-        title:'Henen Flanagan',
-        description:'sdgffhergwgrhreh',
+        imagePath:'http://imshopping.rediff.com/imgshop/800-1280/shopping/pixs/17373/m/m48551-1._reebok-running-shoes-active-sports-lp-ii-product-code-m48551-.jpg',
+        title:'Reebok Kobe 11 XI',
+        description:'016 Reebok Kobe 11 XI Elite Low Mens Running Shoes ',
         price:25
     }),
     new Product({
-        imagePath:'http://www.naaktsporten.be/u/20110727/naaktsportfoto88.jpg',
-        title:'Naakt Sport',
-        description:'hertarejrys',
+        imagePath:'https://static.kaymu.pk/p/other-5624-0077002-1-product.jpg',
+        title:'Naakt Sport Tennis Ball',
+        description:'12 Pcs Of Adidas Tennis Ball (WS)',
         price:17
     }),
     new Product({
-        imagePath:'http://images.ftvgirlsfan.com/wp-content/uploads/2016/10/ftv-girls-michele-on-remote-trail-4.jpg',
-        title:'Michele Amour',
-        description:'rfhgbekfbwekfjbw',
+        imagePath:'https://s-media-cache-ak0.pinimg.com/736x/a8/8a/94/a88a94dee2fefc9072c337e1bad27937.jpg',
+        title:'Manchester United FC T-shirt',
+        description:'Manchester United FC T-shirt for Men',
         price:10
     }),
     new Product({
-        imagePath:'http://image.ournakedgirls.com/Un0L1rO.jpg',
+        imagePath:'https://static.daraz.lk/p/other-7030-1414202-1-product.jpg',
         title:'Kinga',
-        description:'kjgbwkrjbgwejbfwlejf',
+        description:'Childrens Tri Scooter With Lighting Up Wheels - Red',
         price:10
     }),
     new Product({
-        imagePath:'http://cnnude.com/uploads/allimg/160730/1-160I01J351.jpg',
-        title:'Mei Qi',
-        description:'wejfbwljgwlekbglwgb',
+        imagePath:'https://static.kaymu.pk/p/adidas-0102-260562-1-product.jpg',
+        title:'Adidas Track suit',
+        description:'Track suit - Men',
         price:15
     })
     ];
