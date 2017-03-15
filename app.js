@@ -16,7 +16,7 @@ var userRoutes = require('./routes/user');
 
 var app = express();
 //mongoose.connect('localhost:27017/shopping');
-mongoose.connect('mongodb://sharvilak:admin@ds039431.mlab.com:39431/shopping');
+mongoose.connect('mongodb://sharvilak:admin@ds131890.mlab.com:31890/shopping');
 require('./config/passport');
 // view engine setup
 app.engine('.hbs',expresshbs({defaultLayout: 'layout', extname: '.hbs'}));
